@@ -1,1 +1,1 @@
-# All_about_boosting
+# Все полезное про Boosting собираем сюда
